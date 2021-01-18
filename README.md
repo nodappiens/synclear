@@ -1,2 +1,2 @@
 # synclear
-syncing and clearing a file storage
+synchronization and clearification a file storage
